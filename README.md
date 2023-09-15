@@ -4,8 +4,9 @@
 
 ## About Me
 
-- 💻 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Professional+full-stack+JavaScript+Engineer)](https://git.io/typing-svg)
 - 💻 Professional full-stack JavaScript Engineer
 - 🧠 Passionate about tech and innovation
 
 ### 🤝 Let's collaborate and enhance the world!
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
