@@ -4,7 +4,12 @@
 
 ## About Me
 
-- 💻 Professional full-stack Engineer
+- 💻 Professional Full-Stack Engineer
 - 🧠 Passionate about tech and innovation
+
+### 💡 Tech Stack
+- **Frontend:** React, React Native, Next.js  
+- **Backend:** Node.js, Express, Nest.js
+- **Languages:** Javascript, Typescript.
 
 ### 🤝 Let's collaborate and enhance the world!
